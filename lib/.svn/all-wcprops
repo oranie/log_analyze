@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/SYSTEM/!svn/ver/271/perl/log_analyze/lib
+END
+config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/config.pm
+END
+log_text_control.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/log_text_control.pm
+END
+log_db_control.pm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SYSTEM/!svn/ver/271/perl/log_analyze/lib/log_db_control.pm
+END
+make_summary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/make_summary.pm
+END
+log_parse.pm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/SYSTEM/!svn/ver/270/perl/log_analyze/lib/log_parse.pm
+END
+make_summary_resoure.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/make_summary_resoure.pm
+END
+execute_log.pm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/execute_log.pm
+END
+log_mail_control.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SYSTEM/!svn/ver/267/perl/log_analyze/lib/log_mail_control.pm
+END

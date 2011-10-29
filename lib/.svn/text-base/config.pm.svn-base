@@ -1,0 +1,6 @@
+[database]
+#db = 'DBI:mysql:slow_log:ip-10-148-126-202.ap-northeast-1.compute.internal'
+db = 'DBI:mysql:slow_log'
+user = 'root'
+password = 'yura0244'
+
